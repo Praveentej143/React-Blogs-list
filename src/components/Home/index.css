@@ -1,0 +1,28 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  font-family: 'Roboto';
+}
+.userInfo-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.user-img {
+  width: 100px;
+}
+.user-name {
+  color: #12022f;
+  font-size: 22px;
+}
+.user-desc {
+  color: #616e7c;
+}
+
+.blog-list-container {
+  width: 80%;
+}
